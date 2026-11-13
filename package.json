@@ -1,0 +1,13 @@
+{
+  "name": "chill-sleep-mini-project",
+  "version": "1.1.0",
+  "description": "Mini project full-stack product detail pages using HTML, CSS, Vanilla JavaScript, Node.js, Express and SQL.js (SQLite)",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sql.js": "^1.13.0"
+  }
+}
